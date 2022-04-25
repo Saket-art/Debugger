@@ -16,4 +16,4 @@ Week 2
 Week 3
 
 * Completed the course in this week.
-* Learned how to write effective emails, introduction to MongoDB, Data Structures, Algorithms other soft skills as well.
+* Learned how to write effective emails, introduction to MongoDB, Advance Data Structures, Algorithms other soft skills as well.
